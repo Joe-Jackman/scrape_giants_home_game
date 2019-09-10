@@ -1,0 +1,10 @@
+{
+  "slack": "write channel token",
+  "db_connection": {
+    "host": "localhost",
+    "user": "admin",
+    "password": "",
+    "db":   "python_db",
+    "charset": "utf8mb4"
+  }
+}
